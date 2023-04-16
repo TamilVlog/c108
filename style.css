@@ -1,0 +1,37 @@
+body {
+    font-family: 'Alkatra', cursive;
+    background: #CF7664;
+}
+
+.header_div {
+    background: white;
+    color: #3EE0B4;
+}
+
+.header_div p {
+    font-family: 'mandatory plaything';
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Oswald', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #247083;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #BEDFE8;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #2E50D0;
+}
